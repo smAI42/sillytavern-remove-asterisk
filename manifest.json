@@ -1,6 +1,6 @@
 {
   "name": "Remove Markdown Bold",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Removes all **bold** formatting from AI context before sending to the model.",
   "entry": "removeBoldContext.js",
   "authors": ["gao"],
